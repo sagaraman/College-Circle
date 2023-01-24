@@ -1,0 +1,38 @@
+body{
+  background-color:blueviolet;
+  color: black;
+}
+
+.navbar-nav{
+  text-align: center;
+}
+
+
+form, .new-signup{
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.login-heading{
+  font-family: "Poppins", Arial, sans-serif;
+}
+
+input[type = "password"], input[type = "email"], input[type = "text"]{
+  height: 45px;
+}
+
+.see-password{
+  font-size: 33px;
+  cursor: pointer;
+  position: relative;
+  top: -62px;
+  right: 10px;
+}
+
+.new-signup a{
+  text-decoration: none;
+}
+
+.copyright{
+  font-size: 18px;
+}
